@@ -18,12 +18,12 @@ public class AritmatictOperator {
         System.out.println("Subtraction\t :" +(a-b));
 
         // Perkalian
-        System.out.println("Multiplication\t :"+(a*b));
+        System.out.println("Multiplication :"+(a*b));
 
         // Pembagian
         System.out.println("Division\t :"+(a/b));
 
         // Sisa Hasil Bagi
-        System.out.println("Modulus\t :"+(a%b));
+        System.out.println("Modulus\t\t :"+(a%b));
     }
 }
